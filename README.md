@@ -1,0 +1,1 @@
+# bsu-computer-graphics-2026
